@@ -1,2 +1,2 @@
-# iiserb_mun_website
-IISERB MUN 2020 Website
+# IISERB MUN 2020 Website
+https://students.iiserb.ac.in/mun/
